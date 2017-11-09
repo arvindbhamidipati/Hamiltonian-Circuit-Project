@@ -1,0 +1,15 @@
+Dublin London Lisbob
+London Liverpool Budapest
+Liverpool Berlin Athens Rome
+Lisbon Madrid
+Madrid Paris Kiev
+Berlin Munich
+Paris Warsaw
+Munich Moscow Warsaw
+Budapest Kiev Rome London
+Warsaw Rome London
+Kiev Paris London
+Moscow London Paris Berlin
+Rome Athens Paris Berlin
+Athens Rome
+Barcelona
